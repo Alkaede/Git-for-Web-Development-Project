@@ -1,0 +1,46 @@
+1.Semantic HTML helps both the developer and computer understand html by the use of semantic elements
+such as <table>, <form>, etc.
+2.HTML is used as the skeleton of a webpage, it houses all the basic information for a piece of code together.
+3.Attributes provide additional information for a HTML element; e.g. the href for an anchor tag
+4.H1 tag is yur title header, should only be used once on a page if possible.
+5. <a> and <img>
+6. Links to our CSS and JS, <title>
+7. id is an unique attribute for an element and can only be used once
+8. Just about everything
+9. once
+10. class is used to specify a group for html elements and can be used multiple times
+11. anything that can be affected by a style sheet in css
+12. as many times as you need to
+13. add the target='_blank' attribute
+14.  its provides text that describes the image that is linked in case said image does not load
+15. #id
+16. section tells the computer that the elements nested are part of a section and a div is just a divider
+17. CSS is used to style html
+18. select the element by writing out its id,class,or element name—h2{}
+19. class is used when you want to style multiple elements in the same way, id is used for a single element for its own styling
+	ex.giving a section of images a class tag of "gallery" to style it with flexbox
+	ex.giving a <p> id of 'contact-us' if you want to stylize only the contact us paragraph with its own stylization
+20.write the element name, id(#id-name), or class(.class-name)
+21. .human
+22. parent child selector helps select a parent element's nested element (child), its useful when we want to do something specific only to that child element without affect the parent element
+23. div #sidebar
+24. its a special class in css to define the state of an element
+25. line-height
+26. letter-spacing
+27. text-transform: capital/uppercase/lowercase
+28. border: dotted 1px black;
+29. *{} (universal selector)
+30. /* */
+31. pwd
+32. ls
+33. rm fileName.txt ; it doesn't prompt use a warning message so we have to be careful when deleting certain files or else we brick our pc
+34. it maintains a history of what changes have happened, so that we can go back to compare the code in case something fails in the later part
+35. as often
+36. git push
+37. Fork
+add collaborator
+clone
+branch
+complete assignment
+push
+create pull request
